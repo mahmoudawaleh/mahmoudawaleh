@@ -1,16 +1,46 @@
-## Hi there 👋
+👋 Hi there! I'm **Mahmoud Awaleh**
 
-<!--
-**mahmoudawaleh/mahmoudawaleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Founder** of [M2 Creative & Consulting](https://github.com/m2creativeplus)  
+🧠 **AI Strategist** | Building intelligent systems for Somaliland's institutions  
+🛠️ **Full-Stack Developer** | Next.js • React • TypeScript • Supabase
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Current Focus
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **MASS VWMS** | Vehicle Workshop Management System | 🟢 Active |
+| **Guurti Portal** | Parliamentary Digital Platform | 🟢 Active |
+| **Kaltirsi Calendar** | Somali Cultural Calendar App | 🟡 Beta |
+| **M2 Studio** | AI-Powered Creative Platform | 🔵 Development |
+
+---
+
+### 📊 GitHub Stats
+
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudawaleh&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+### 🛠️ Tech Stack
+
+```
+Frontend:    Next.js • React 19 • TypeScript • TailwindCSS
+Backend:     Supabase • Convex • Node.js
+AI/ML:       OpenAI • Gemini • Ollama • LangChain
+Design:      Figma • Framer Motion • shadcn/ui
+DevOps:      Vercel • GitHub Actions • Docker
+```
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/m2awaleh)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=x)](https://x.com/mahmoudawaleh)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mahmoudawaleh@gmail.com)
+
+---
+
+*Building the Digital Future of Somaliland — One Commit at a Time* 🇸🇱
